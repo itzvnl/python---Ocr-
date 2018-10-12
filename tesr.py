@@ -1,3 +1,3 @@
 from PIL import Image
 import pytesseract
-print pytesseract.image_to_string(Image.open('out.jpg'))
+print pytesseract.image_to_string(Image.open('Hands-34.jpg'))
